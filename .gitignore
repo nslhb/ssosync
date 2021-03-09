@@ -24,3 +24,5 @@ packaged.yaml
 # IDE
 .idea/
 .vscode/
+.history/
+samconfig.toml
